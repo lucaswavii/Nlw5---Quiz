@@ -1,11 +1,4 @@
 <p align="center">
-  <b>Que tal acompanhar live codings de projetos reais ao vivo?</b><br />
-  Segue lá na twitch: <a target="_blank" href="https://www.twitch.tv/wilsonnetodev">Wilson Neto Dev na Twitch</a><br />
-</p>
-
-<hr />
-
-<p align="center">
   <img src="/.github/cover.png"/>
 </p>
 
@@ -30,8 +23,8 @@
 **how to run the app?:** 
 
 ```
-git clone https://github.com/wilsonneto-dev/NextLevelWeek5-Flutter-Dev-Quiz.git
-cd NextLevelWeek5-Flutter-Dev-Quiz
+git clone 
+cd Nnlw
 flutter run
 ```
 
