@@ -23,7 +23,7 @@
 **how to run the app?:** 
 
 ```
-git clone 
+git clone https://github.com/lucaswavii/Nlw5---Quiz.git
 cd Nnlw
 flutter run
 ```
