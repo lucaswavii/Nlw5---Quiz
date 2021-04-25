@@ -11,11 +11,6 @@
 
 # Next Level Week - Dev Quiz (NLW)
 
-[![Author](https://img.shields.io/badge/author-WilsonNetoDev-AD1256?style=flat-square)](https://github.com/wilsonneto-dev)
-[![Languages](https://img.shields.io/github/languages/count/wilsonneto-dev/NextLevelWeek5-Flutter-Dev-Quiz?color=%23AD1256&style=flat-square)](#)
-![GitHub stars](https://img.shields.io/github/stars/wilsonneto-dev/NextLevelWeek5-Flutter-Dev-Quiz?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/wilsonneto-dev/NextLevelWeek5-Flutter-Dev-Quiz?style=flat-square)
-
 > Dev Quiz is a simple Quiz app with Flutter built in the last Rocketseat Next Level week
 
 <p align="center">
@@ -43,9 +38,7 @@ flutter run
 <br /> <br />
 # :postbox: Get in touch to me
 
-**Twitch:** <a target="_blank" href="https://www.twitch.tv/wilsonnetodev">Lucas Chaves Ricarte</a><br />
-
-**E-mail:** hi@wilsonneto.com.br
+**E-mail:** lucaschavesricarte@gmail.com
 
 **Linkedin:** [https://www.linkedin.com/in/lucas-ricarte-86066326/](https://www.linkedin.com/in/lucas-ricarte-86066326/)
 
