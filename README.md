@@ -43,11 +43,11 @@ flutter run
 <br /> <br />
 # :postbox: Get in touch to me
 
-**Twitch:** <a target="_blank" href="https://www.twitch.tv/wilsonnetodev">Wilson Neto Dev na Twitch</a><br />
+**Twitch:** <a target="_blank" href="https://www.twitch.tv/wilsonnetodev">Lucas Chaves Ricarte</a><br />
 
 **E-mail:** hi@wilsonneto.com.br
 
-**Linkedin:** [https://www.linkedin.com/in/wilsonnetobr/](https://www.linkedin.com/in/wilsonnetobr/)
+**Linkedin:** [https://www.linkedin.com/in/lucas-ricarte-86066326/](https://www.linkedin.com/in/lucas-ricarte-86066326/)
 
 <br /> <br />
 # :closed_book: License
@@ -55,4 +55,4 @@ flutter run
 Released in 2021.
 This project is under the [MIT license](https://opensource.org/licenses/MIT).
 
-Coded with :heart: by [Wilson Neto](https://github.com/wilsonneto-dev) 🚀
+Coded with :heart: by [lucasricarte](https://github.com/lucaswavii) 🚀
